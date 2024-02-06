@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sandani Rashmika</h1>
 
 <h3 align="center">👩‍💻  About Me</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandani2001&label=Profile%20views&color=0e75b6&style=flat" alt="sandani2001" /> </p>
 
 <p align="left">Hello, my name is Sandani Rashmika and  i am an undergarduate  at National Institute of Business Management (NIBM-Sri Lanka) majoring in Software Engineering.
   <br><br>- 📚 I'm currently learning Mobile application Development with Android Studio
